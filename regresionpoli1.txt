@@ -1,0 +1,14 @@
+En estadística, la regresión polinomial es un problema de inferencia para un modelo tipo:
+
+y=f(x,?)+?
+
+basado en datos multidimensionales x,y , donde f es alguna función no lineal respecto a 
+algunos parámetros desconocidos ?. Como mínimo, se pretende obtener los valores de los 
+parámetros asociados con la mejor curva de ajuste (habitualmente, con el método de los mínimos 
+cuadrados). Con el fin de determinar si el modelo es adecuado, puede ser necesario utilizar 
+conceptos de inferencia estadística tales como intervalos de confianza para los parámetros así 
+como pruebas de bondad de ajuste.
+
+El objetivo de la regresión no lineal se puede clarificar al considerar el caso de la regresión
+ polinomial, la cual es mejor no tratar como un caso de regresión no lineal. Cuando la función 
+toma la forma:
